@@ -8,12 +8,13 @@ Vini Mini heeft als missie om voedselallergie te voorkomen bij baby’s.
 
 ## Opdracht
 Ontwerp en maak voor een opdrachtgever een component of website op basis van een bestaande huisstijl. <br>
-Userstory: Als ouder wil ik in een agenda overzicht krijgen, zodat ik weet op welke dag ik een supplement voor een allergie moet geven.
+**Userstory:** Als ouder wil ik in een agenda overzicht krijgen, zodat ik weet op welke dag ik een supplement voor een allergie moet geven.
 
 ## Beschrijving
 <!-- In de Beschrijving staat hoe je project er uit ziet, hoe het werkt en wat je er mee kan. -->
 
-Ik probeerde een omgeving te bouwen onder de agenda, waar ouders/verzorges kunnen zelf invullen hoe het ging met supplement geven aan hen kind en vinimini laten weten hoe het ging, door dit kunnen ze ook bijhouden wat ze allemaal hebben gedaan en gegeven aan hen kind.
+Ik probeerde een omgeving te bouwen onder de agenda, waar ouders/verzorges kunnen zelf invullen hoe het ging met supplement geven aan hen kind en vinimini laten weten hoe het ging, door dit kunnen ze ook bijhouden wat ze allemaal hebben gedaan en gegeven aan hen kind. <br>
+Ik heb ook onze styleguide gevolgd tijdens het bouwen.
 
 <!-- Voeg een mooie poster visual toe 📸 -->
 
