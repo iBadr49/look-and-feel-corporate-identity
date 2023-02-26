@@ -20,7 +20,7 @@ Ik heb ook onze styleguide gevolgd tijdens het bouwen.
 
 📸 - Hieronder zie je hoe het tot nu eruit ziet. 
 
--- Hier kan je gewoon beschrijven hoe het ging!
+-- Hier kan je beschrijven hoe het ging!
 
 ![image](https://user-images.githubusercontent.com/112857932/207378646-931ce4bf-94c9-49f9-8427-e6a6cebc0194.png)
 
@@ -36,9 +36,22 @@ Ik heb ook onze styleguide gevolgd tijdens het bouwen.
 ## Kenmerken
 <!-- Bij Kenmerken staat welke technieken zijn gebruikt en hoe. Wat is de HTML structuur? Wat zijn de belangrijkste dingen in CSS? Wat is er met Javascript gedaan en hoe? Misschien heb je een framwork of library gebruikt? -->
 
--> Html <br>
--> Css <br>
--> Js
+Om dit te kunnen bouwen, heb ik gebruik gemaakt van Html, Css en een stukje JavaScript. 
+
+JavaScript code die ik heb gebruikt:
+```js
+const input1 = document.querySelector('.input1');
+const inputOn = document.querySelector('.inputOn');
+input1.addEventListener("click", inputClick);
+
+// selecteer p element
+const paragraph = document.querySelector('.test');
+
+function inputClick(){
+    input1.classList.toggle('inputOn');
+    paragraph.classList.toggle('test');
+}
+```
 
 ## Bronnen
 
