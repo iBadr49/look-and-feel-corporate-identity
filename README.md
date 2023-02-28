@@ -20,9 +20,8 @@ Ik heb ook onze styleguide gevolgd tijdens het bouwen.
 
 📸 - Hieronder zie je hoe het tot nu eruit ziet. 
 
--- Hier kan je beschrijven hoe het ging!
 
-![image](https://user-images.githubusercontent.com/112857932/207378646-931ce4bf-94c9-49f9-8427-e6a6cebc0194.png)
+<img width="1256" alt="Scherm­afbeelding 2023-02-28 om 16 24 48" src="https://user-images.githubusercontent.com/112857932/221899056-b9fccf33-75f9-44b6-a0de-0a96bec6f332.png">
 
 
 
@@ -33,7 +32,7 @@ Ik heb ook onze styleguide gevolgd tijdens het bouwen.
 ## Kenmerken
 <!-- Bij Kenmerken staat welke technieken zijn gebruikt en hoe. Wat is de HTML structuur? Wat zijn de belangrijkste dingen in CSS? Wat is er met Javascript gedaan en hoe? Misschien heb je een framwork of library gebruikt? -->
 
-Om dit te kunnen bouwen, heb ik gebruik gemaakt van Html, Css. Hieronder kan je zien hoe ik een input type="checkbox"/"text" heb gemaakt.
+Om dit te kunnen bouwen, heb ik gebruik gemaakt van Html, Css. Hieronder kan je zien hoe ik een input type="checkbox"/"textare" heb gemaakt.
 
 Html
 ```html
