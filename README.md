@@ -36,21 +36,22 @@ Ik heb ook onze styleguide gevolgd tijdens het bouwen.
 ## Kenmerken
 <!-- Bij Kenmerken staat welke technieken zijn gebruikt en hoe. Wat is de HTML structuur? Wat zijn de belangrijkste dingen in CSS? Wat is er met Javascript gedaan en hoe? Misschien heb je een framwork of library gebruikt? -->
 
-Om dit te kunnen bouwen, heb ik gebruik gemaakt van Html, Css en een stukje JavaScript. 
+Om dit te kunnen bouwen, heb ik gebruik gemaakt van Html, Css. Hieronder kan je zien hoe ik een input type="checkbox"/"text" heb gemaakt.
 
-JavaScript code die ik heb gebruikt:
-```js
-const input1 = document.querySelector('.input1');
-const inputOn = document.querySelector('.inputOn');
-input1.addEventListener("click", inputClick);
-
-// selecteer p element
-const paragraph = document.querySelector('.test');
-
-function inputClick(){
-    input1.classList.toggle('inputOn');
-    paragraph.classList.toggle('test');
-}
+Html
+```html
+      <fieldset>
+        <div class="inputForm">
+          <input class="input" type="checkbox" />
+          <label class="container">23-12-2022</label>
+          <span class="checkmark"></span>
+        </div>
+        <p> Vandaag heeft Ali .... </p>
+        <legend><span>3</span></legend>
+        <label for="question"></label>
+        <textarea id="question" placeholder=" Vul hier hoe het ging?"></textarea>
+        <input type="submit" value="Submit">
+      </fieldset>
 ```
 
 ## Bronnen
