@@ -24,9 +24,6 @@ Ik heb ook onze styleguide gevolgd tijdens het bouwen.
 
 ![image](https://user-images.githubusercontent.com/112857932/207378646-931ce4bf-94c9-49f9-8427-e6a6cebc0194.png)
 
--- Hieronder komen er nog andere vragen. (Het idee is nog niet compleet "to  be continued")
-
-<img src="https://user-images.githubusercontent.com/112857932/207378819-1cbc03fd-f0d5-44f6-932f-2144a84e34c3.png" width= 50%>
 
 
 <!-- Voeg een link toe naar Github Pages 🌐-->
